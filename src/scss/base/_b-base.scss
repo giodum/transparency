@@ -1,0 +1,17 @@
+:root {
+  --color-base: #1E1E1E;
+  --color-primary: #FC2D19;
+  --color-text: #E6E6E6;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  height: 100svh;
+  line-height: 1.125;
+  overflow: hidden;
+  width: 100svw;
+}
+
+canvas {
+  user-select: none;
+}
